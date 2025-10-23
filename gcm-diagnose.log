@@ -1,0 +1,201 @@
+﻿Diagnose log at 2025-10-23T19:14:11Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.5.1+90d5f897f164a8fe07d2aa3bf7db439b0b4e03ea
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26100)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\lalvarez
+USERNAME=lalvarez
+COMPUTERNAME=AD2-TD-8604
+PROGRAMDATA=C:\ProgramData
+GIT_TRACE2_PARENT_SID=f72b43bb-7529-41b8-9850-25de6be8ade7
+PROGRAMFILES=C:\Program Files (x86)
+EFC_33272_1262719628=1
+CONDA_PYTHON_EXE=C:\Users\lalvarez\Anaconda3\python.exe
+ONEDRIVE=C:\Users\lalvarez\OneDrive - COMBEX-IM
+SESSIONNAME=Console
+TMP=C:\Users\lalvarez\AppData\Local\Temp
+LC_CTYPE=C.UTF-8
+USERDOMAIN=COMBEX
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+TEMP=C:\Users\lalvarez\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\lalvarez\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 3, GenuineIntel
+SYSTEMDRIVE=C:
+EFC_33272_2283032206=1
+CONDA_EXE=C:\Users\lalvarez\Anaconda3\Scripts\conda.exe
+CONDA_ROOT=C:\Users\lalvarez\Anaconda3
+EFC_33272_2775293581=1
+CONDA_SHLVL=1
+HOMEDRIVE=C:
+SYSTEMROOT=C:\WINDOWS
+USERDNSDOMAIN=COMBEX.LOCAL
+PROCESSOR_LEVEL=6
+OS=Windows_NT
+TMPDIR=C:\Users\lalvarez\AppData\Local\Temp
+WINDIR=C:\WINDOWS
+PROMPT=(base) $P$G
+ANACONDA_NAVIGATOR_VERSION=2.6.6
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=12
+FPS_BROWSER_USER_PROFILE_STRING=Default
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuFJbGbY8H0q6MVA/2gAUlAQAAAACAAAAAAAQZgAAAAEAACAAAAATx7rCDv/t/C5BlHlN0XzPrVEMSlxMQ1JCOqRYS7X9EwAAAAAOgAAAAAIAACAAAAApN4veZqBfrB433vOwRlVAkJ0s7o3/p+G/7sVjLpuVQmAAAAAt/OiNCywyUZ4RbVsU2PlrqUDhce+OsL1XWL+86kL3oN1WJGvoOe5ua9PeRvZvZzILYJanzT9WNRhovmP1ZlKAoHt3eGvMoPmwgFjN0lIzzD9O6Vivsf9K+Cv1qgHugfFAAAAANVepYxZiVC/hTNmQHGJmdcE3l5I0WyBf2I5RHqgWb3I8KCL6C+6RvTRqlAzp+hktKPg8Ou5C0ewKD3OUVip6EQ==
+CONDA_DEFAULT_ENV=base
+PLINK_PROTOCOL=ssh
+USERDOMAIN_ROAMINGPROFILE=COMBEX
+MSYS=disable_pcon
+PATH=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\lalvarez\bin;C:\Users\lalvarez\Anaconda3;C:\Users\lalvarez\Anaconda3\Library\mingw-w64\bin;C:\Users\lalvarez\Anaconda3\Library\usr\bin;C:\Users\lalvarez\Anaconda3\Library\bin;C:\Users\lalvarez\Anaconda3\Scripts;C:\Users\lalvarez\Anaconda3\bin;C:\Users\lalvarez\Anaconda3\condabin;C:\Users\lalvarez\Anaconda3;C:\Users\lalvarez\Anaconda3\Library\mingw-w64\bin;C:\Users\lalvarez\Anaconda3\Library\usr\bin;C:\Users\lalvarez\Anaconda3\Library\bin;C:\Users\lalvarez\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\app\dev_practicante\product\11.2.0\client_1;C:\app\dev_practicante\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\dotnet;C:\Program Files\IBM\SPSS\Statistics\25\JRE\bin;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\150\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Users\lalvarez\AppData\Local\Microsoft\WindowsApps;C:\Users\lalvarez\AppData\Local\Programs\Azure Data Studio\bin;C:\Users\lalvarez\AppData\Local\Programs\MiKTeX\miktex\bin\x64
+_CONDA_ROOT=C:\Users\lalvarez\Anaconda3
+_CONDA_EXE=C:\Users\lalvarez\Anaconda3\Scripts\conda.exe
+CONDA_PROMPT_MODIFIER=(base) 
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROGRAMFILES(X86)=C:\Program Files (x86)
+__COMPAT_LAYER=DetectorsAppHealth
+HOME=C:\Users\lalvarez
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\VM-DOMAIN-02
+USERPROFILE=C:\Users\lalvarez
+PROCESSOR_REVISION=ba03
+COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+CONDA_PREFIX=C:\Users\lalvarez\Anaconda3
+PROGRAMW6432=C:\Program Files
+APPDATA=C:\Users\lalvarez\AppData\Roaming
+COLORTERM=truecolor
+ONEDRIVECOMMERCIAL=C:\Users\lalvarez\OneDrive - COMBEX-IM
+DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+PROCESSOR_ARCHITEW6432=AMD64
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+EFC_33272_1592913036=1
+EFC_33272_3789132940=1
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\lalvarez\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\lalvarez\AppData\Local\Temp\60b34f62ae2d41b0d6e8952f'... OK
+Reading from temporary file 'C:\Users\lalvarez\AppData\Local\Temp\60b34f62ae2d41b0d6e8952f'... OK
+Deleting temporary file 'C:\Users\lalvarez\AppData\Local\Temp\60b34f62ae2d41b0d6e8952f'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\lalvarez
+UserDataDirectoryPath: C:\Users\lalvarez\.gcm
+GetCurrentDirectory(): C:\Users\lalvarez\Product_Dev\repo-proyecto-final
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:65471/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.46.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/lalvarez/Product_Dev/repo-proyecto-final/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/lalvarez/.gitconfig	user.email=alvarezlopez028@gmail.com
+file:C:/Users/lalvarez/.gitconfig	user.name=daniel2025-1
+file:C:/Users/lalvarez/.gitconfig	credential.helper=
+file:C:/Users/lalvarez/.gitconfig	credential.helper=C:/Program\ Files/Git/mingw64/bin/git-credential-manager.exe
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/daniel2025-01/repo-proyecto-final-2025.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\lalvarez\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\lalvarez\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
