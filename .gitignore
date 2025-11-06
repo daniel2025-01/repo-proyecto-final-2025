@@ -1,7 +1,7 @@
 # Ignorar contenido pesado, pero mantener estructura
 /data/*
 !/data/**/*.csv
-!/data/**/.gitkeep
+!/data/**/*.gitkeep
 
 /models/*
 !/models/**/.gitkeep
