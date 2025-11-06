@@ -1,11 +1,34 @@
-# Data
-/data/
+# Ignorar contenido pesado, pero mantener estructura
+/data/*
+!/data/**/*.csv
+!/data/**/.gitkeep
 
-# Models
-/models/ 
+/models/*
+!/models/**/.gitkeep
 
-# Mac OS-specific storage files
+# =========================
+# Archivos temporales
+# =========================
+__pycache__/
+*.py[cod]
+*.so
+*.zip
+*.tar
+*.gz
+
+# =========================
+# Entornos y configuraciones
+# =========================
+.env
+.venv/
+.envrc
+*.env
+*.yaml
+*.yml
 .DS_Store
 
-# Variables de Entorno
-.env 
+# =========================
+# Notebooks y outputs
+# =========================
+.ipynb_checkpoints/
+*.log
