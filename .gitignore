@@ -36,3 +36,7 @@ __pycache__/
 # --- permitir modelos en notebooks/models ---
 !/notebooks/models/
 !/notebooks/models/*.pkl
+
+# Permitir modelos dentro de models/
+!models/
+!models/*.pkl
