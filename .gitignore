@@ -40,3 +40,7 @@ __pycache__/
 # Permitir modelos dentro de models/
 !models/
 !models/*.pkl
+
+# MLflow tracking
+mlruns/
+mlartifacts/
