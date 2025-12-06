@@ -23,8 +23,6 @@ __pycache__/
 .venv/
 .envrc
 *.env
-*.yaml
-*.yml
 .DS_Store
 
 # =========================

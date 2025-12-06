@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  preproc:
+    cmd: python -m produccion.dataset
+    deps:
+    - path: data/raw/sales_data_sample.csv
+      hash: md5
+      md5: 38a3712cdcbf34d3c9f69b032e071d15
+      size: 527958
+    - path: produccion/dataset.py
+      hash: md5
+      md5: f80ee710c90b1ffd2920964159c07631
+      size: 1189
+    outs:
+    - path: data/interim/feature_exploration_scaled.csv
+      hash: md5
+      md5: b6e90446982344a826423b0a8c40bb2d
+      size: 531796

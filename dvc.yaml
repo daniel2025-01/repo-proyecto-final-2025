@@ -1,0 +1,22 @@
+stages:
+  preproc:
+    cmd: python -m produccion.dataset
+    deps:
+      - data/raw/sales_data_sample.csv
+      - produccion/dataset.py
+    outs:
+      - data/interim/feature_exploration_scaled.csv
+      
+  train:
+    cmd: python produccion/modeling/train.py
+    deps:
+      - data/processed/train_features.parquet
+      - produccion/modeling/train.py
+    outs:
+      - models/full_sales_forecast_pipeline.pkl
+
+  inference:
+    cmd: d data/processed/test_features.parquet -d data/processed/test_features.parquet -o reports/predictions.csv python produccion/modeling/predict.py
+    deps:
+      - models/full_sales_forecast_pipeline.pkl
+      - produccion/modeling/predict.py
