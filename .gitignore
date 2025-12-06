@@ -42,3 +42,7 @@ __pycache__/
 # MLflow tracking
 mlruns/
 mlartifacts/
+
+*.pkl
+*.csv
+.dvc/
